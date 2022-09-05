@@ -1,2 +1,2 @@
 # Doubly-Linked-List
-Doubly Linked List Data Structure with all Operations &amp; Algorithm
+C++ Program to Implement Doubly Linked List Data Structure
